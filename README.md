@@ -10,7 +10,7 @@
 
 ​		在此，我们提供训练使用的Python源代码、训练好的模型样例以及可以用来展示模型效果的demo程序。
 
-​		如果你希望在墙内了解我们的工作，可以前往 [这个仓库]([Code · lloong/A12_project - 码云 - 开源中国 (gitee.com)](https://gitee.com/lloong_x/a12_project/tree/master/Code))
+​		如果你希望在墙内了解我们的工作，可以前往[这个仓库]([Code · lloong/A12_project - 码云 - 开源中国 (gitee.com)](https://gitee.com/lloong_x/a12_project/tree/master/Code))
 
 ## 使用(Usage)
 

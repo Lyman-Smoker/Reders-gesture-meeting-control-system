@@ -32,17 +32,12 @@
 
 ## 开发环境需求(Requirement)
 
-tensorflow-gpu==>2.0.0
-
-keras-gpu==>2.3.1
-
-matplotlib	==>3.2.1
-
-numpy==>1.19.3
-
-h5py==>2.10.0
-
-opencv-python==>4.4.0.46
+    tensorflow-gpu==>2.0.0
+    keras-gpu==>2.3.1
+    matplotlib	==>3.2.1
+    numpy==>1.19.3
+    h5py==>2.10.0
+    opencv-python==>4.4.0.46
 
 ## 引用(Citation)
 

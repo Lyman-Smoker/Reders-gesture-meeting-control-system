@@ -55,8 +55,6 @@
 
 ## 联系我们(Contact)
 
-电话: +86 18927652067
-
 邮箱：yuanmingli527@gmail.com
 
 ## 鸣谢(Acknowledgement)
